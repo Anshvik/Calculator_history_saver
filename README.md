@@ -22,5 +22,7 @@ This is a simple command-line calculator built in Python that supports basic ari
 5 + 3
 
 Welcome to our calculator!
+
 Enter your expression (e.g., 8 + 2): 9 * 2
+
 Result: 18
